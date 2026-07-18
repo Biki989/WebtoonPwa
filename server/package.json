@@ -1,0 +1,17 @@
+{
+  "name": "webtoonpwa-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "cheerio": "^1.0.0",
+    "axios": "^1.7.0",
+    "node-cache": "^5.1.2",
+    "express-rate-limit": "^7.4.0"
+  }
+}

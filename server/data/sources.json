@@ -1,0 +1,11 @@
+[
+  {
+    "id": "source-mangadex",
+    "name": "MangaDex (Official)",
+    "baseUrl": "https://mangadex.org",
+    "renderType": "mangadex",
+    "enabled": true,
+    "selectors": {},
+    "createdAt": "2026-03-25T00:00:00.000Z"
+  }
+]
